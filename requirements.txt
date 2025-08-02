@@ -1,3 +1,4 @@
 flask
 fpdf
 psycopg2-binary
+gunicorn
